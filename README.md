@@ -70,3 +70,19 @@ Wireframing is not just a design activity; it plays a vital role in the software
 - Reduces Rework: By identifying usability or functional issues early, wireframes help teams avoid costly revisions later in the development process.
 
 - Improves Sprint Planning: In agile environments, wireframes guide user story creation and task estimation, ensuring a smoother workflow.
+
+## 🧪 Wireframing in Practice
+### Real-World Scenario: E-Commerce Checkout Redesign
+During the redesign of an e-commerce checkout process, an initial wireframe revealed that users had to go through five steps to complete a purchase. Stakeholder feedback and user testing during the wireframing stage showed that this was too cumbersome and could lead to cart abandonment.
+
+The design team used Figma to iterate on a streamlined, two-step checkout process. This included:
+
+- Consolidating address and payment information on a single page
+
+- Adding progress indicators for clarity
+
+Once implemented, the updated design resulted in:
+
+- A 17% increase in completed purchases
+
+- A 30% reduction in checkout-related customer complaints
